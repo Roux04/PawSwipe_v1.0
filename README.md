@@ -35,9 +35,9 @@ PostGIS: Open-source extension for the PostgreSQL database that adds support for
 Docker: Database Interpreter, allows for a smooth run
 
 Team Contributions
-Justin Bruinsma: Led the project, tackling the backend development and debugging
-Sia Brewton: Assisted in backend development, creating the logic for certain app functionalities
-Mohamed Loum: Backend development and debugging, creating the logic and testing the code
-Matthew Campovere: Led the frontend development team, executing final designs and connecting to the backend
-Devin He: Assisted the frontend development through creating designs and functions 
-Roux Grinion: Created UI through Figma
+- Justin Bruinsma: Led the project, tackling the backend development and debugging
+- Sia Brewton: Assisted in backend development, creating the logic for certain app functionalities
+- Mohamed Loum: Backend development and debugging, creating the logic and testing the code
+- Matthew Campovere: Led the frontend development team, executing final designs and connecting to the backend
+- Devin He: Assisted the frontend development through creating designs and functions 
+- Roux Grinion: Created UI through Figma
